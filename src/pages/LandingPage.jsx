@@ -1,10 +1,10 @@
 import HeroSection from "../Components/HeroSection";
-import AboutSection from "../components/AboutSection";
-import CollectionSection from "../components/CollectionSection";
-import GallerySection from "../components/GallerySection";
+import AboutSection from "../Components/AboutSection";
+import CollectionSection from "../Components/CollectionSection";
+import GallerySection from "../Components/GallerySection";
 import WhatsAppConnect from "../Components/WhatsAppConnection";
-import Footer from "../components/Footer";
-import MobileBottomNav from "../components/MobileBottomNav";
+import Footer from "../Components/Footer";
+import MobileBottomNav from "../Components/MobileBottomNav";
 
 export default function LandingPage() {
   return (
